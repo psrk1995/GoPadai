@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoStudy/Shiva/bitOperations/bitops"
+	"GoPadai/Shiva/bitOperations/bitops"
 )
 
 func main() {
